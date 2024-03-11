@@ -8,7 +8,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+/*
 .App > :first-child {
   width: 100%;
   align-self: stretch;
@@ -34,6 +34,7 @@
 }
 
 /* Tooltip styling */
+/*
 .tooltip-inner {
   background-color: #f0f0f0;
   color: #282c34;
@@ -43,6 +44,8 @@
 }
 
 /* for hovering list's items */
+
+/*
 .hover-highlight:hover {
   background-color: #f8f9fa !important;
 }
@@ -81,3 +84,4 @@
     transform: rotate(360deg);
   }
 }
+*/
