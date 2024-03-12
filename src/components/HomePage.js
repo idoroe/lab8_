@@ -40,6 +40,11 @@ const HomePage = () => {
                         <td style={styles.td}>Emmanuel Idoro</td>
                         <td style={styles.td}>Developer</td>
                     </tr>
+    
+                    <tr>
+                        <td style={styles.td}>Moyo Ogunjobi</td>
+                        <td style={styles.td}>Developer</td>
+                    </tr>
                 </tbody>
             </table>
         </div>
